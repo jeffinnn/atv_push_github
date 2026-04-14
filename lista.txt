@@ -1,0 +1,13 @@
+lista = [20, 5, 10, 15, 28, 30]
+
+soma = 0
+contagem = 0
+for valor in lista
+  soma = soma + valor
+
+for elemeto in lista
+  contagem = contagem + 1
+
+media = soma  contagem
+
+print((fSua média é de {media}).replace (., ,))
